@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Reach out if you want to get more out of your Data!</h3>
 
 - I’m currently working on [TravelTide](https://github.com/michaelkloess/TravelTide)
 
