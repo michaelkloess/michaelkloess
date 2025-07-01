@@ -7,8 +7,6 @@
 
 - All of my projects are available at [https://github.com/michaelkloess](https://github.com/michaelkloess)
 
-- How to reach me: LinkedIn or Facebook
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/michael klöß" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michael klöß" height="30" width="40" /></a>
