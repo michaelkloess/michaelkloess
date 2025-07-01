@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [TravelTide](https://github.com/michaelkloess/TravelTide)
+- I’m currently working on [TravelTide](https://github.com/michaelkloess/TravelTide)
 
-- 🌱 I’m currently learning **Data Modelling**
+- I’m currently learning **Data Modelling**
 
-- 👨‍💻 All of my projects are available at [https://github.com/michaelkloess](https://github.com/michaelkloess)
+- All of my projects are available at [https://github.com/michaelkloess](https://github.com/michaelkloess)
 
-- 📫 How to reach me **michael-kloess@t-online.de**
+- How to reach me: LinkedIn or Facebook
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
