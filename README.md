@@ -1,4 +1,4 @@
-# Hello, ich bin Michael,
+# Hi, ich bin Michael,
 
 angehender Data Analyst mit einem klaren Fokus auf Datenanalyse, Visualisierung und datenbasierte Entscheidungsprozesse. 
 Mein Ziel ist es, aus komplexen Datensätzen verständliche und handlungsrelevante Erkenntnisse zu gewinnen, die die Welt ein Stück besser machen.
@@ -28,15 +28,6 @@ Mein Ziel: durch präzise Analysen und datenbasiertes Storytelling echte Problem
 - Python (Jupyter, Pandas (im Aufbau), matplotlib (im Aufbau)  
 - Tableau  
 - Excel & Google Sheets  
-
-## Ausbildung
-
-**Data Analytics Weiterbildung – Masterschool (aktuell)**
-
-- Dauer: 14 Monate in Vollzeit (inkl. 2-monatigem Praktikum)  
-- Umfang: 2.600+ Unterrichtseinheiten (~1.950 Stunden)  
-- 6 praxisnahe Projektarbeiten  
-- Schwerpunkte: SQL, Python, Spreadsheets, Tableau, Business Intelligence, Analytical Methods, End-to-End Projects  
 
 ---
 
