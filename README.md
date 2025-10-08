@@ -66,5 +66,4 @@ This egoless approach creates organizational value that is otherwise hard to ach
 [![Website](https://img.shields.io/badge/Personal%20Website-005A9C?style=flat&logo=About.me&logoColor=white)](https://www.mk-bewerbung.com)  
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/michael.kl./vizzes)
 
-You are a Rockstar! 
-Wishing you all the best! 🏅
+✨ You are a Rockstar — wishing you all the best on your journey! 🏅
