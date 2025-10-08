@@ -60,7 +60,7 @@ This egoless approach creates organizational value that is otherwise hard to ach
 
 ---
 
-## 📕 Let's Connect!
+## 🫱🏻‍🫲🏽 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-kl%C3%B6%C3%9F-86a597338/)  
 [![Website](https://img.shields.io/badge/Personal%20Website-005A9C?style=flat&logo=About.me&logoColor=white)](https://www.mk-bewerbung.com)  
