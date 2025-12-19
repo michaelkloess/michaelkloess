@@ -16,7 +16,7 @@ This egoless approach creates organizational value that is otherwise hard to ach
 ├── 📌 01.03.2026 – 31.02.2029 (36 Months)
 │   └── B.Sc. Degree in Data Science (Full-time)
 │       └── During this period, I am open to working student positions lasting between 6 and 12 months. 
-│           In Düsseldorf and the surrounding area or remote.
+│           In Düsseldorf (Germany) and the surrounding area or remote.
 │           Perhaps you know someone who has a need. I would appreciate any information. :)
 │            └── In Roles such as:
 │                ├── Data Engineer
