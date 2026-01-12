@@ -11,7 +11,7 @@ This egoless approach creates organizational value that is otherwise hard to ach
 ├── 📌 10.12.2024 – 20.02.2026 (14 Months)
 │   └── Masterschool – Continuing Education (Data Science, Business Intelligence Analysis)
 │       └── I am currently enrolled in a continuing education program at Masterschool 
-│           in the field of data science, with a focus on business intelligence analysis.
+│           in the field of data science, with a focus on data engineering.
 │
 ├── 📌 01.03.2026 – 31.02.2029 (36 Months)
 │   └── B.Sc. Degree in Data Science (Full-time)
