@@ -57,7 +57,6 @@
 ## 🫱🏻‍🫲🏽 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-kl%C3%B6%C3%9F-86a597338/)  
-[![Website](https://img.shields.io/badge/Personal%20Website-005A9C?style=flat&logo=About.me&logoColor=white)]((https://www.michaelkloess.de/))  
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/michael.kl./vizzes)
 
 ✨ You are a Rockstar - wishing you all the best on your journey! 🏅
