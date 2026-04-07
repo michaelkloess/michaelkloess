@@ -21,9 +21,7 @@ This egoless approach creates organizational value that is otherwise hard to ach
 │            └── In Roles such as:
 │                ├── Data Engineer
 │                ├── Data Analyst
-│                ├── Business Intelligence Analyst
-│                ├── Data Scientist
-│                └── ML Engineer
+│                └── Business Intelligence Analyst
 │
 ├── 📌 01.03.2029 – 31.02.2030 (12 Months)
 │   └── M.Sc. Degree in Data Science (Full- or Part-time)
