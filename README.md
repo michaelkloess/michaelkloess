@@ -52,7 +52,6 @@ This egoless approach creates organizational value that is otherwise hard to ach
 
 | Project | Description | Tags |
 |--------|-------------|------|
-| Company A | Text | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white) | 
 
 ---
 
@@ -62,4 +61,4 @@ This egoless approach creates organizational value that is otherwise hard to ach
 [![Website](https://img.shields.io/badge/Personal%20Website-005A9C?style=flat&logo=About.me&logoColor=white)](https://www.mk-bewerbung.com)  
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/michael.kl./vizzes)
 
-✨ You are a Rockstar — wishing you all the best on your journey! 🏅
+✨ You are a Rockstar - wishing you all the best on your journey! 🏅
