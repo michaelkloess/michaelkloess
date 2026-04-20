@@ -22,15 +22,10 @@
 │                ├── Data Analyst
 │                └── Business Intelligence Analyst
 │
-├── 📌 01.03.2029 – 31.02.2030 (12 Months)
-│   └── M.Sc. Degree in Data Science (Full- or Part-time)
-│       └── While the exact path is still open, one thing is clear: 
-│           achieving the Master’s degree is an important goal for me.
-│
-└── 📌 31.03.2031 - ✨🔮  
-    └── Ph.D. in Data Science (possible, part-time)  
-        └── If AI hasn’t taken over the world by then, and I discover research  
-            topics that truly excite me, I can also imagine pursuing a part-time Ph.D. in Data Science.
+└── 📌 01.03.2029 – 31.02.2030 (12 Months)
+    └── M.Sc. Degree in Data Science (Full- or Part-time)
+        └── While the exact path is still open, one thing is clear: 
+            achieving the Master’s degree is an important goal for me.
 ```
 
 ## 🗂️ Tech Stack:
